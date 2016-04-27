@@ -9,6 +9,7 @@ How to run it?
 "webex21".
 
 (4)Configure db information in the /WEB-INF/web.xml. Configure the url of db.webexURL AND db.user and db.passwd.
+Configure the db information in /WEB-INF/spring/database.xml, such as webex.
 
 (5)Save all the configuration. Run it locally in eclipse to test the project.
 
