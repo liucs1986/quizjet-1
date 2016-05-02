@@ -1,5 +1,5 @@
 
-var TEST_SERVER = "http://localhost:8080/quizjet";
+var TEST_SERVER = "http://localhost:9090/quizjet";
 var PRODUCTION_SERVER = "http://adapt2.sis.pitt.edu/quizjet_authoring";
 var SERVER = PRODUCTION_SERVER;
 
